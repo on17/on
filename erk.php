@@ -3,5 +3,5 @@
 header('Content-Type: text/html; charset=utf-8');
 
 // แสดงข้อความ
-echo "สวัสดีค่ะ ";
+echo "สวัสดีครับ  ";
 ?>
